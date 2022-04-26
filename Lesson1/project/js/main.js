@@ -5,16 +5,16 @@ const products = [
   { id: 4, title: 'Gamepad', price: 150 },
 ];
 
-const getProductHTMLString = (title, price, img = "img/auto150_200.png") =>
+const getProductHTMLString = (item, img = "img/auto150_200.png") =>
   `<div class="product-item">
-                <img src=${img}>
-                <h3>${title}</h3>
-                <p>${price}</p>
+                <img src=${item.img || img}>
+                <h3>${item.title}</h3>
+                <p>${item.price}</p>
                 <button class="by-btn">Add to Cart</button>
               </div>`;
 
 const renderProducts = (productList) => {
-  const list = productList.map((good) => getProductHTMLString(good.title, good.price)).join(``);
+  const list = productList.map((item) => getProductHTMLString(item)).join(``);
 
   document.querySelector('.products').innerHTML = list;
 }
