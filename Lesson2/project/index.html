@@ -12,11 +12,25 @@
 <body>
     <header class="header">
         <section class="header_block con_padding contaner_me">
-            <div>
-                <img src="img/RT.png" alt="RT">
-                <p>Rocket_M-Place</p>
+            <img src="img/RT.png" alt="RT">
+            <p>Rocket_M-Place</p>
+            <button class="btn-cart" type="button">Корзина
+                <span class="">0</span>
+            </button>
+
+            <div class="basket hidden">
+                <div class="basketRow basketHeader">
+                    <div>Название товара</div>
+                    <div>Количество</div>
+                    <div>Цена за шт.</div>
+                    <div>Итого</div>
+                </div>
+
+                <div class="basketTotal">
+                    Товаров в корзине на сумму:
+                    <span class="basketTotalValue">0</span>
+                </div>
             </div>
-            <button class="btn-cart" type="button">Корзина</button>
         </section>
     </header>
     <main class="con_block con_padding contaner_me">
