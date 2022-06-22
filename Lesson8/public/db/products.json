@@ -1,0 +1,44 @@
+[
+  {
+    "id_product": 1,
+    "img_product": "img/items/1.png",
+    "product_name": "Шляпа",
+    "product_text": "Синяя Шляпа хорошо смотрится с синей кофтой и белыми шортами.",
+    "price": 250
+  },
+  {
+    "id_product": 2,
+    "img_product": "img/items/2.png",
+    "product_name": "Куртка",
+    "product_text": "Отличная синяя куртка.",
+    "price": 2000
+  },
+  {
+    "id_product": 3,
+    "img_product": "img/items/3.png",
+    "product_name": "Штынцы",
+    "product_text": "Шикарные штаны цвета детской неожиданности.",
+    "price": 1000
+  },
+  {
+    "id_product": 4,
+    "img_product": "img/items/4.png",
+    "product_name": "Вечерний костюм",
+    "product_text": "Элегантный женский костюм.",
+    "price": 3000
+  },
+  {
+    "id_product": 5,
+    "img_product": "img/items/5.png",
+    "product_name": "Пиджак",
+    "product_text": "Красивый женский пиджак",
+    "price": 2500
+  },
+  {
+    "id_product": 6,
+    "img_product": "img/items/6.png",
+    "product_name": "Ночнушка",
+    "product_text": "Женская ночнушка, приятная на ощупь, легко снимается.",
+    "price": 900
+  }
+]
