@@ -1,0 +1,81 @@
+[
+    {
+        "time": "30 Jan 2020, 7:54:11 pm",
+        "action": "change"
+    },
+    {
+        "time": "22 Jun 2022, 10:53:13 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "22 Jun 2022, 10:53:15 pm",
+        "prod_name": "Keyboard",
+        "action": "change"
+    },
+    {
+        "time": "22 Jun 2022, 10:53:27 pm",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    },
+    {
+        "time": "22 Jun 2022, 10:53:27 pm",
+        "prod_name": "Keyboard",
+        "action": "change"
+    },
+    {
+        "time": "22 Jun 2022, 10:53:28 pm",
+        "prod_name": "Keyboard",
+        "action": "remove"
+    },
+    {
+        "time": "22 Jun 2022, 10:59:27 pm",
+        "prod_name": "Штынцы",
+        "action": "add"
+    },
+    {
+        "time": "22 Jun 2022, 10:59:28 pm",
+        "prod_name": "Gamepad",
+        "action": "change"
+    },
+    {
+        "time": "22 Jun 2022, 10:59:29 pm",
+        "prod_name": "Шляпа",
+        "action": "add"
+    },
+    {
+        "time": "22 Jun 2022, 10:59:34 pm",
+        "prod_name": "Gamepad",
+        "action": "change"
+    },
+    {
+        "time": "22 Jun 2022, 10:59:36 pm",
+        "prod_name": "Штынцы",
+        "action": "remove"
+    },
+    {
+        "time": "22 Jun 2022, 10:59:38 pm",
+        "prod_name": "Gamepad",
+        "action": "remove"
+    },
+    {
+        "time": "22 Jun 2022, 10:59:40 pm",
+        "prod_name": "Штынцы",
+        "action": "add"
+    },
+    {
+        "time": "22 Jun 2022, 10:59:41 pm",
+        "prod_name": "Шляпа",
+        "action": "change"
+    },
+    {
+        "time": "22 Jun 2022, 10:59:43 pm",
+        "prod_name": "Шляпа",
+        "action": "change"
+    },
+    {
+        "time": "22 Jun 2022, 10:59:46 pm",
+        "prod_name": "Ночнушка",
+        "action": "add"
+    }
+]
